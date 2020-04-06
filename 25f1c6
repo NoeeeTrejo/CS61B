@@ -1,0 +1,592 @@
+[33mcommit ad99f792e64629dcadb06ec3fdcf8b6c6dd31b88[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 2654d8d 4ef29b7
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Feb 26 14:34:04 2020 -0800
+
+    Merge remote-tracking branch 'shared/lab6'
+
+[33mcommit 4ef29b765ecf6aa48569df912102573ce06a6ec6[m[33m ([m[1;31mshared/lab6[m[33m)[m
+Author:  <mhwang@DESKTOP-5N0JQHM.localdomain>
+Date:   Tue Feb 25 10:21:35 2020 -0800
+
+    Update lab6
+
+[33mcommit 88f5b03a805f8b579aa0ae2949005a46770d7869[m
+Author:  <mhwang@DESKTOP-5N0JQHM.localdomain>
+Date:   Mon Feb 24 21:51:44 2020 -0800
+
+    Update lab6
+
+[33mcommit 2654d8ddedc335a60098a7a4419d873064ae0df5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Feb 23 21:53:57 2020 -0800
+
+    changes
+
+[33mcommit 4fec83e9475ca863e0942c711d0260716daa9a5f[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sat Feb 22 17:45:22 2020 -0800
+
+    Checkpoint?
+
+[33mcommit a034467fddc57b94ab263da0e7ff9c975e25f1c6[m
+Merge: 87cdf02 8fab649
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 20:34:06 2020 -0800
+
+    Merge remote-tracking branch 'shared/proj1'
+
+[33mcommit 87cdf027cee3fd86a5591687bedbe4a23263a933[m
+Merge: 90b083d 527810e
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 20:07:13 2020 -0800
+
+    Merge remote-tracking branch 'shared/hw4'
+
+[33mcommit 90b083daa258dc232c38c2d5b4187adf45e0780d[m[33m ([m[1;33mtag: submit/hw3-3[m[33m, [m[1;33mtag: hw3-2[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 20:03:15 2020 -0800
+
+    changes
+
+[33mcommit f21a4bb594ce93449c3a9a25c71cc901419f0e65[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 18:01:17 2020 -0800
+
+    changes
+
+[33mcommit 5085c154266cea0f68ba29e73cb74f63348f33a0[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 17:49:16 2020 -0800
+
+    changes
+
+[33mcommit 9d4fd31215493df11dbedda6e669f016dbfa9196[m[33m ([m[1;33mtag: submit/hw3-2[m[33m, [m[1;33mtag: hw3-1[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 17:35:42 2020 -0800
+
+    changes
+
+[33mcommit 9df0f6cee8ad2841b464f4c7ed70f436cb7b5520[m[33m ([m[1;33mtag: submit/hw3-1[m[33m, [m[1;33mtag: hw3-0[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 21 16:19:59 2020 -0800
+
+    test
+
+[33mcommit 527810eebfa423f04b4181347befb9e87ca316f4[m[33m ([m[1;31mshared/hw4[m[33m)[m
+Author: Zoe Plaxco <zap.plaxco@berkeley.edu>
+Date:   Fri Feb 21 13:52:15 2020 -0800
+
+    Update hw4
+
+[33mcommit 26c85b36fcc5e7846457ec9125cdb36ee728f88d[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Thu Feb 20 20:11:44 2020 -0800
+
+    Update
+
+[33mcommit 9be8d83b597244f564542ef93a02927540440a18[m[33m ([m[1;33mtag: submit/lab5-1[m[33m, [m[1;33mtag: lab5-0[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Thu Feb 20 18:51:20 2020 -0800
+
+    Finished!
+
+[33mcommit 8fab64927de11834f7a21ba0a46c390461688f36[m[33m ([m[1;31mshared/proj1[m[33m)[m
+Author: Paul Hilfinger <Hilfinger@cs.berkeley.edu>
+Date:   Wed Feb 19 19:25:16 2020 -0800
+
+    Update proj1
+
+[33mcommit 8de6ff3291d56aa552b705fdc26a41025531472a[m
+Author: Paul Hilfinger <Hilfinger@cs.berkeley.edu>
+Date:   Wed Feb 19 19:19:54 2020 -0800
+
+    Update proj1
+
+[33mcommit 0e7debde63a12146395c9c52f0bf3706abbabccb[m
+Merge: 3011736 ec0710a
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Feb 19 16:27:19 2020 -0800
+
+    Start lab5
+
+[33mcommit 3011736ce89787e817c42330571581b714eb4108[m
+Merge: 330b92b 7d7c809
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Feb 19 16:26:49 2020 -0800
+
+    Start hw3
+
+[33mcommit ec0710a08f19a0012525ed2c9a052cc68041b807[m
+Author: Matthew Owen <omatthew98@berkeley.edu>
+Date:   Wed Feb 19 15:04:16 2020 -0800
+
+    Update lab5
+
+[33mcommit 330b92b2838333de87427e82c3371d64cb531898[m[33m ([m[1;33mtag: submit/proj0-9[m[33m, [m[1;33mtag: submit/proj0-10[m[33m, [m[1;33mtag: proj0-5[m[33m, [m[1;33mtag: proj0-4[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 16:46:56 2020 -0800
+
+    Finished maybe
+
+[33mcommit aa0d3e3bade7d02cdac8f3fe0e58611a9e6929be[m[33m ([m[1;33mtag: submit/proj0-8[m[33m, [m[1;33mtag: proj0-666[m[33m)[m
+Author: Joel Trejo-Cruz <noetrejocruz@berkeley.edu>
+Date:   Tue Feb 18 16:23:05 2020 -0800
+
+    Fixdd?
+
+[33mcommit 891f9f37352247f5a0c648114b43465815a89267[m[33m ([m[1;33mtag: submit/proj0-7[m[33m, [m[1;33mtag: submit/proj0-6[m[33m, [m[1;33mtag: submit/proj0-5[m[33m, [m[1;33mtag: submit/proj0-4[m[33m, [m[1;33mtag: submit/proj0-3[m[33m, [m[1;33mtag: proj0-8[m[33m, [m[1;33mtag: proj0-7[m[33m, [m[1;33mtag: proj0-3[m[33m, [m[1;33mtag: proj0-2[m[33m, [m[1;33mtag: proj0-100[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 15:25:45 2020 -0800
+
+    FINISHED FOR SURE
+
+[33mcommit 56d757ebc6522aa0754ed07ae8c1b27307b5ae5b[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 15:16:47 2020 -0800
+
+    more changes
+
+[33mcommit 337eac5e7277950d7fb40ab360021ad597fb42c9[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 14:39:50 2020 -0800
+
+    more changes
+
+[33mcommit 4311d9b4e5055948c464b58964224bb932f9129d[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:58:18 2020 -0800
+
+    more changes
+
+[33mcommit 67aedd5f4b1ac62983a4e53e3204295abfe0aa6c[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:39:15 2020 -0800
+
+    changes
+
+[33mcommit 3309f6f68bf2b8908b1d1076e1d498f27de7ad82[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:32:20 2020 -0800
+
+    changes
+
+[33mcommit 1859ba35cb6c1aa8ab394037219d1378d14a51de[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:29:49 2020 -0800
+
+    changes
+
+[33mcommit b0ecf7b5fec11771206b66406e7caa1cd0a50c6b[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:23:24 2020 -0800
+
+    changes
+
+[33mcommit ca2114b829cf9039dd1fc5e11fdc96815cf4e93c[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:08:02 2020 -0800
+
+    maybe done
+
+[33mcommit 9b2f1f65b5db3d0c12276dc4a5285220929e91e5[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 11:03:48 2020 -0800
+
+    fixes
+
+[33mcommit 4fe876b8b708f9a3fb4951b62c71b82d8640e531[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 10:56:06 2020 -0800
+
+    check
+
+[33mcommit 92ba3f343be9b74f40860ccc851b83b858a27c5f[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 10:42:03 2020 -0800
+
+    fix?
+
+[33mcommit 5fbe81219b46201ccfb5e3594249da5687b5ad7c[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 10:33:32 2020 -0800
+
+    Test
+
+[33mcommit 840ffbe2c6e7dc164116229c00d4e7969c8c4b3d[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 10:29:10 2020 -0800
+
+    Test
+
+[33mcommit e7737dada8dc89a5b4b6eaf0f3794abbd4bd47af[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 10:01:34 2020 -0800
+
+    revert
+
+[33mcommit 6262640d6fc8eef8d1e287aaa92cc126591284de[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:59:42 2020 -0800
+
+    changes for testing
+
+[33mcommit 2a59a5fe859f05c183638be210356beab862bda1[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:51:08 2020 -0800
+
+    going back
+
+[33mcommit 5f9b220d16562d7823d6910f55846e7277d83deb[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:49:12 2020 -0800
+
+    swag
+
+[33mcommit 83899d0af6e97f01fac9f8d2e4fd4a067b4b2416[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:48:06 2020 -0800
+
+    logic changes
+
+[33mcommit b363120437d60682aeb14d6a87cb0a43f524ad12[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:47:26 2020 -0800
+
+    logic changes
+
+[33mcommit 766b9930d801cca60dab02c85ea9ed4ac20d43fd[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:32:31 2020 -0800
+
+    test changes
+
+[33mcommit 0858a1f4ad3298c302f0b1343584ec8271198a57[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:26:59 2020 -0800
+
+    more changes
+
+[33mcommit 9ee6d044c59bc36066cef9aae693c648c004fc37[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:25:59 2020 -0800
+
+    Tessting other
+
+[33mcommit ef37fe32a2831312e56effba5f48d5aff6b5b4e0[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:25:09 2020 -0800
+
+    Tessting other
+
+[33mcommit ae77035b4b1761111f44fcb0238bdc53ff37ed63[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:24:22 2020 -0800
+
+    Tessting other
+
+[33mcommit 1c669934abcca745e61df661e78ea87de1a3294b[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 18 09:12:30 2020 -0800
+
+    Changes
+
+[33mcommit 0ec68eeba76d1759305207ad1b833626a496d414[m[33m ([m[1;33mtag: submit/proj0-1[m[33m, [m[1;33mtag: proj0-0[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 21:52:48 2020 -0800
+
+    Almost done
+
+[33mcommit d62bc15f4f327a0d7e1bfc47200a5e5b5844145e[m[33m ([m[1;33mtag: submit/proj0-2[m[33m, [m[1;33mtag: proj0-1[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 21:16:22 2020 -0800
+
+    Some Changes
+
+[33mcommit 9e1b7bc52608bbdf4c3f4e710baaba0c132a8960[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 20:50:58 2020 -0800
+
+    changes
+
+[33mcommit 082c46a919f0ca7f945e9e323afceb2f90fa28d7[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 20:19:37 2020 -0800
+
+    Testing changes
+
+[33mcommit d6235f6ead6d25c864bc3acf384b3574b21fe7e8[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 19:39:33 2020 -0800
+
+    changes
+
+[33mcommit e499248190f30a2658e913a668c485982654f4a7[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 18:25:49 2020 -0800
+
+    changes
+
+[33mcommit 0aa128fba9c69ef69af26776085d0f9c1cb9ec1a[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 18:06:47 2020 -0800
+
+    removed souts
+
+[33mcommit e50bae3a4f4eff02b6a0197a7fe8742b2aa3fd26[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 17:52:58 2020 -0800
+
+    changes
+
+[33mcommit fb1ef942f60475508dc638d22238db21c3f5c785[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 16:33:34 2020 -0800
+
+    Testing for Instruction account
+
+[33mcommit 453a0873887f0ea013c95ad065ea954d5ede6f05[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 17 14:54:04 2020 -0800
+
+    Finished but Debugging
+
+[33mcommit 598d36cb53909f755a040ab2e1e2e01fa0dcc538[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Feb 16 15:04:13 2020 -0800
+
+    WorkingOnFindUniquePred
+
+[33mcommit 7d7c8097a35ebc24a20728371eb729151023174f[m[33m ([m[1;31mshared/hw3[m[33m)[m
+Author: Omar Khan <o.k@berkeley.edu>
+Date:   Sat Feb 15 00:00:20 2020 -0800
+
+    Update hw3
+
+[33mcommit 5e18cd62297b002b377087d0e28bd1ddbbb4d5f6[m[33m ([m[1;33mtag: submit/hw2-1[m[33m, [m[1;33mtag: hw2-1[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 14 18:59:12 2020 -0800
+
+    Almost done hw
+
+[33mcommit 119a7e4ecd32d7fabc51b46d9bf8129c727d3a6d[m
+Merge: e121f16 8231b32
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 10 14:07:28 2020 -0800
+
+    start hw 2
+
+[33mcommit e121f16c300b14c6696c336be2604d3f338e6b1a[m[33m ([m[1;33mtag: submit/lab3-1[m[33m, [m[1;33mtag: lab3-02[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sat Feb 8 16:45:13 2020 -0800
+
+    Finished!
+
+[33mcommit 8231b32a4eea6c0417658247b220f144e66f8d3c[m[33m ([m[1;31mshared/hw2[m[33m)[m
+Author: Omar Khan <o.k@berkeley.edu>
+Date:   Sat Feb 8 01:48:27 2020 -0800
+
+    Update hw2
+
+[33mcommit 2fcee12ba75b0ce08ea4944fa7f0d8189fda1a83[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Fri Feb 7 14:01:32 2020 -0800
+
+    Finished Q1
+
+[33mcommit 3773217b1995bd8164a998272a528e8a90dcb4f1[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Feb 5 17:20:39 2020 -0800
+
+    CheckedOff
+
+[33mcommit e16435813eb962341a2f963d4d8644368cadf3eb[m
+Merge: 6c74d4a a5d2778
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Feb 5 17:17:26 2020 -0800
+
+    Start lab3
+
+[33mcommit 6c74d4af30993eec7ee4f6900578de6c6e13e2ec[m
+Merge: bbbc1a4 df93218
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Tue Feb 4 00:13:04 2020 -0800
+
+    Get proj0 skeleton
+
+[33mcommit bbbc1a45d280c3bd25098829b578e8a6a25535aa[m[33m ([m[1;33mtag: submit/hw1-2[m[33m, [m[1;33mtag: hw1-1[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Mon Feb 3 23:02:46 2020 -0800
+
+    Finished HW1
+
+[33mcommit df93218d1a01bc6cf71800cf40fc59ac48549028[m
+Author: Will Wang <hwang97@berkeley.edu>
+Date:   Sun Feb 2 22:49:14 2020 -0800
+
+    Update proj0 with a fix to sqDisconnectTest
+
+[33mcommit a5d27786dca6d84530a572db206c0db6f558f3d6[m[33m ([m[1;31mshared/lab3[m[33m)[m
+Author: Vaibhav Sakore <vsakore@berkeley.edu>
+Date:   Sun Feb 2 18:25:36 2020 -0800
+
+    Update lab3
+
+[33mcommit 7d72ddeb532b4d72db5d5d2a4b65ef6046979161[m
+Author: Will Wang <hwang97@berkeley.edu>
+Date:   Sun Feb 2 02:04:28 2020 -0800
+
+    Update proj0 with style fixes
+
+[33mcommit 2d0f2b7a8e228865e2e28d7760501432f37777be[m[33m ([m[1;33mtag: submit/hw1-1[m[33m, [m[1;33mtag: hw1-0[m[33m)[m
+Merge: f1e351d f5ff124
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sat Feb 1 23:09:01 2020 -0800
+
+    start HW1
+
+[33mcommit 48dbea036b93a85b9cd12363e44b1b292e00fa87[m
+Author: Will Wang <hwang97@berkeley.edu>
+Date:   Sat Feb 1 03:38:21 2020 -0800
+
+    Update proj0
+
+[33mcommit c68295534756c73e629b119fd319a42f1ed04561[m
+Author: Paul Hilfinger <Hilfinger@cs.berkeley.edu>
+Date:   Sat Feb 1 00:09:50 2020 -0800
+
+    Update proj0
+
+[33mcommit f5ff1240882f81bd288aada6b954bc405cfc7773[m
+Author: Zoe Plaxco <zap.plaxco@berkeley.edu>
+Date:   Fri Jan 31 21:59:22 2020 -0800
+
+    Update hw1
+
+[33mcommit 34e2c4364c6e1d15710aa87dc27cdf5a158fe55b[m
+Author: Paul Hilfinger <Hilfinger@cs.berkeley.edu>
+Date:   Fri Jan 31 23:35:06 2020 -0800
+
+    Update proj0
+
+[33mcommit d22aac7b2694b55dde6afc19146b2ec556d881f1[m
+Author: Zoe Plaxco <zap.plaxco@berkeley.edu>
+Date:   Fri Jan 31 17:00:50 2020 -0800
+
+    Update hw1
+
+[33mcommit 462b69307d3f3322c7ac3716146a1cff14a83993[m
+Author: Zoe Plaxco <zap.plaxco@berkeley.edu>
+Date:   Thu Jan 30 09:56:36 2020 -0800
+
+    Update hw1
+
+[33mcommit cf2bc04b8b4fd7defd5b3d929ce5517cb763830e[m
+Author: Zoe Plaxco <zap.plaxco@berkeley.edu>
+Date:   Wed Jan 29 22:28:02 2020 -0800
+
+    Update hw1
+
+[33mcommit f1e351dc633d1a21e4e6145c2f58738a9002dab3[m[33m ([m[1;33mtag: submit/lab2-6[m[33m, [m[1;33mtag: lab2-6[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Jan 29 21:19:35 2020 -0800
+
+    FINISHED
+
+[33mcommit ae94fc1db7bdd348b40de2d947ffcc035fd741f7[m[33m ([m[1;33mtag: submit/lab2-5[m[33m, [m[1;33mtag: lab2-4[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Jan 29 21:11:10 2020 -0800
+
+    FINISHED
+
+[33mcommit 9e41a841376ffd8ee451c33e990924b6bd8fe6fb[m[33m ([m[1;33mtag: submit/lab2-4[m[33m, [m[1;33mtag: lab2-5[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Jan 29 17:57:12 2020 -0800
+
+    changes
+
+[33mcommit cecf8342f02f0bf08071121edb6577e896456d65[m[33m ([m[1;33mtag: submit/lab2-3[m[33m, [m[1;33mtag: submit/lab2-2[m[33m, [m[1;33mtag: lab2-3[m[33m, [m[1;33mtag: lab2-1[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Jan 29 17:41:11 2020 -0800
+
+    Finished Lab2
+
+[33mcommit 69aed31562f1d4242bda467ded6c4ef4ba8f1d43[m[33m ([m[1;33mtag: submit/lab2-1[m[33m, [m[1;33mtag: lab2-0[m[33m)[m
+Merge: 7fc9916 21266e4
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Jan 29 16:25:14 2020 -0800
+
+    Start lab2
+
+[33mcommit 21266e41ad6bf3284ccb001d0b7591f8148def16[m[33m ([m[1;31mshared/lab2[m[33m)[m
+Author: Matthew Owen <omatthew98@berkeley.edu>
+Date:   Wed Jan 29 12:14:13 2020 -0800
+
+    Update lab2
+
+[33mcommit 7fc9916a5da797eee92d004ba339cd92a961abba[m[33m ([m[1;33mtag: submit/hw0-1[m[33m, [m[1;33mtag: hw0-0[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Jan 26 23:01:20 2020 -0800
+
+    FINAL VERSION hw0.java
+
+[33mcommit a3adb0ea98ee44495cd84bdf47fd181a356f1e59[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Jan 26 22:56:54 2020 -0800
+
+    FIXED Tester.java
+
+[33mcommit e9cbe3cf364f28eac500955dc0c4c3967b338d61[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Jan 26 22:53:55 2020 -0800
+
+    FINISHED Tester.java
+
+[33mcommit cca0d6338e07ebf294759431f9d1a23375996c15[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Jan 26 22:43:11 2020 -0800
+
+    finished hw0.java
+
+[33mcommit 0d1e1fc01a1fdcc9aca22378a0e7eb2adca8c204[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Jan 26 22:27:25 2020 -0800
+
+    Completed Tester.java
+
+[33mcommit cc752a6a09ec1379a2e08a3cc1c64f35fcf472b5[m
+Merge: f8284bb c13b87b
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Sun Jan 26 09:43:57 2020 -0800
+
+    Get HW0 skeleton
+
+[33mcommit c13b87b46f226c17cac03570a095213a4dca900f[m[33m ([m[1;31mshared/hw0[m[33m)[m
+Author: Omar Khan <o.k@berkeley.edu>
+Date:   Fri Jan 24 19:10:44 2020 -0800
+
+    Update hw0
+
+[33mcommit f8284bba38117d19f542f1e914df2b3f52921b94[m[33m ([m[1;33mtag: submit/lab1-1[m[33m, [m[1;33mtag: lab1-0[m[33m)[m
+Author: Noe Trejo-Cruz <NoeTrejoCruz@berkeley.edu>
+Date:   Wed Jan 22 17:57:43 2020 -0800
+
+    Completed Year.java
+
+[33mcommit cab18a328aeece55f9e6bb306e18894310397fcc[m[33m ([m[1;31mshared/lab1[m[33m)[m
+Author: Matthew Owen <omatthew98@berkeley.edu>
+Date:   Wed Jan 22 04:59:20 2020 -0800
+
+    Update lab1
+
+[33mcommit 4bd90c38c0cadc8eb05990dbe3f2730ad7977e56[m[33m ([m[1;31mshared/master[m[33m, [m[1;31mshared/Initial[m[33m)[m
+Author: Paul Hilfinger <Hilfinger@cs.berkeley.edu>
+Date:   Sun Jan 19 15:01:54 2020 -0800
+
+    Add global .gitignore.
+
+[33mcommit 664f7fea53a7eeaedfed13a9658d6dfd25d8fbe8[m
+Author: Paul Hilfinger <Hilfinger@cs.berkeley.edu>
+Date:   Sun Jan 19 15:00:11 2020 -0800
+
+    Initial commit.

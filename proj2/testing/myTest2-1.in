@@ -1,0 +1,10 @@
+# Check that the initial position is right.
+#* java -ea loa.Main
+manual White
+auto Black
+a6-c8
+h3-f1
+auto Black
+auto White
+dump
+quit
