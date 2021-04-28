@@ -1,14 +1,9 @@
-Version 1.0 6/30/2019.
+# SignPost
 
-This directory contains a skeleton for CS61B Project 0.
+The puzzle game Signpost is one of Simon Tatham's collection of GUI games (available on a variety of operating-system configurations, including Ubuntu.)
+He attributes the puzzle to Angela and Otto Janko, who call it Pfeilpfad (arrow path). This mini-project, is made in Java and is something that 
+creates these puzzles and allows its user to solve them.
 
-Although some of what's in here might seem mysterious to you, try to
-understand what it's all for.  Don't be afraid to ask us about it.
-
-GENERAL NOTE:  EVERYTHING in these files is changeable as you see fit, unless
-   otherwise noted.  Your task is to conform to the spec, period.  While
-   we have suggested, with these files, certain points about the design, we
-   don't require any of it.
 
 CONTENTS:
 ---------
